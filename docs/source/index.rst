@@ -37,4 +37,7 @@ Espero que este documento seja útil para todos os praticantes de Kendo. Caso te
 Referências
 -----------
 
-Kendo - Approaches for All Levels (Sotaro Honda)
+Ans examination of a tactical learning model in kendo for introduction courses
+Kendo - Approaches for All Levels
+Kendo Guide for Beginners
+The Official Guide for Kendo Instructions
