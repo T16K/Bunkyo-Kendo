@@ -2,9 +2,9 @@
 
 # -- Project information
 
-project = 'Lumache'
-copyright = '2021, Graziella'
-author = 'Graziella'
+project = 'Bunkyo Kendo'
+copyright = '2024, Bunkyo Kendo'
+author = 'Tsuyoshi'
 
 release = '0.1'
 version = '0.1.0'
