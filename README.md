@@ -13,7 +13,9 @@ Para maiores informações: Clauber de Oliveira - bunkyokendo.sp@gmail.com
 ## Como chegar
 
 R. Galvão Bueno, 540 - Liberdade, São Paulo - SP, 01506-000 
+
 (próximo a estação do metrô São Joaquim)
+
 Obs.: entrada pelo estacionamento
 
 ## Nossas Redes Sociais
